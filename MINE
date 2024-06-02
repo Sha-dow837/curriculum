@@ -1,0 +1,6 @@
+my_age = 23
+legal_age = 21
+if my_age >= legal_age :
+     print("You can have a beer!")
+else:
+  print("Unlucky ")
